@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	
 	When you want in implement new features into your code.  You could create a branch for each new feature.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps to see what commits are inaccessable anymore or what features are on which branch.  It also helps to see where orphan commits are.
